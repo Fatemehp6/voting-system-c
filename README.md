@@ -17,3 +17,4 @@ simple voting system in C language
 
 ## Author
 Fateme Hadipour
+Najme Shamsadini
